@@ -1,0 +1,20 @@
+Lord
+Tactician
+Cavalier
+Knight
+Myrmidon
+Thief
+Barbarian
+Fighter
+Mercenary
+Archer
+Dark Mage
+Mage
+Cleric
+Troubadour
+Pegasus Knight
+Wyvern Rider
+Dancer
+Taguel
+Manakete
+Lodestar
